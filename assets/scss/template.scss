@@ -1,4 +1,27 @@
-// Smaller font for longer names
 .portrait-title h2 {
   font-size: 1.5rem;
+}
+
+.site-footer .powered-by:nth-child(2) {
+  display: none;
+}
+
+.site-footer .powered-by{
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.docs-content{
+  max-width: 760px;
+  padding: 0 20px 0 20px;
+  margin: 0 auto 0 auto;
+}
+
+.avatar{
+  height: 150px;
+  width: 150px;
+}
+
+.a{
+  color: #2962ff;
 }
