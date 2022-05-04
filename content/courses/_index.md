@@ -9,4 +9,4 @@ header:
   image: ""
 ---
 
-I teach the following courses:
+These are few of my summary notes for courses that I have taken in university or MOOC.

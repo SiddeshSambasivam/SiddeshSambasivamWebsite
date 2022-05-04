@@ -9,24 +9,31 @@ linktitle: EE4285 Computational Intelligence
 
 # Page summary for search engines.
 
-summary: Blah, blah, blah...
+summary: The courses provides an introduction to fundamental theory and concepts of computational intelligence methods, specifically, fuzzy systems, neural networks, genetic algorithms and their applications in the area of machine intelligence.
 
 # Date page published
 
-date: 2018-09-09
+date: 2018-05-04
 
 # Book page type (do not modify).
 
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
+image:
+  caption: ""
+  focal_point: ""
+  placement: 0
+  preview_only: false
 
 weight: 1
 
 toc: false
 ---
 
-<!-- {{< toc >}} -->
+{{< figure src="featured.jpg" width="250px" title="Fuzzy logic and systems" >}}
+
+The courses provides an introduction to fundamental theory and concepts of computational intelligence methods, specifically, fuzzy systems, neural networks, genetic algorithms and their applications in the area of machine intelligence.
 
 ### References
 

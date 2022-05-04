@@ -1,5 +1,5 @@
 ---
-title: blog
+title: Blog
 # cms_exclude: true
 type: page
 
