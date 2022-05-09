@@ -39,6 +39,13 @@
   font-weight: 500;
 }
 
+.workshop-notebook{
+  // display none for mobile
+  @media (max-width: 767.98px){
+    display: none;
+  }
+}
+
 // .article-style a{
 //   color: #65a8ff !important;
 //     &:hover {
