@@ -24,8 +24,16 @@
 
 .avatar{
   height: 120px;
-  width: 120px;
+  width: 120px; 
 }
+
+@media (max-width: 767.98px){
+  .wg-about .avatar{
+    width: 120px;
+    height: 120px;
+  }
+}
+
 
 #profile > div > h2 {
   font-weight: 500;
