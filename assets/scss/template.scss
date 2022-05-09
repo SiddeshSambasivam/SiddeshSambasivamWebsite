@@ -27,6 +27,10 @@
   width: 120px;
 }
 
+#profile > div > h2 {
+  font-weight: 500;
+}
+
 // .article-style a{
 //   color: #65a8ff !important;
 //     &:hover {
@@ -35,16 +39,16 @@
 //   }
 // }
 
-#profile div h3:nth-child(3) a {
-  // color: rgb(22, 103, 209) !important;
+// #profile div h3:nth-child(3) a {
+//   color: rgb(22, 103, 209) !important;
 
-  &:hover {
-    color: #1565C0 !important;
-    // text-decoration: underline;
-    transition: 100ms;
-  }
+//   &:hover {
+//     color: #1565C0 !important;
+//     // text-decoration: underline;
+//     transition: 100ms;
+//   }
 
-}
+// }
 
 .title-text{
   &:hover {    
