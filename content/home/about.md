@@ -10,9 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
-title: Hi there!
+title: <span class="title-text">Hey there <span class="title-emoji">👋</span></span>!
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

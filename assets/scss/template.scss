@@ -1,5 +1,5 @@
 .portrait-title h2 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .site-footer .powered-by:nth-child(2) {
@@ -17,23 +17,73 @@
   margin: 0 auto 0 auto;
 }
 
-.avatar{
-  height: 150px;
-  width: 150px;
+.wg-about h1{
+  font-size: 1.6rem;
+  font-weight: bold;
 }
 
-.a{
-  color: #2962ff;
-
+.avatar{
+  height: 120px;
+  width: 120px;
 }
 
 // .article-style a{
-//   color: #313131;
-//   font-weight: bold;
-
-//   // &:hover{
-//   //   color: rgba(0, 0, 0, 0.54);
-//   //   transition: 0.2s;
-//   // }
-
+//   color: #65a8ff !important;
+//     &:hover {
+//     color: #1565C0 !important;
+//     transition: 100ms;
+//   }
 // }
+
+#profile div h3:nth-child(3) a {
+  // color: rgb(22, 103, 209) !important;
+
+  &:hover {
+    color: #1565C0 !important;
+    // text-decoration: underline;
+    transition: 100ms;
+  }
+
+}
+
+.title-text{
+  &:hover {    
+    cursor: default;
+    .title-emoji {
+    
+      animation-name: wave-animation;
+      animation-duration: 2.5s;
+      animation-iteration-count: infinite;
+      transform-origin: 70% 70%;
+      display: inline-block;
+    
+    }
+  }
+}
+
+@keyframes wave-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  15% {
+    transform: rotate(14deg);
+  }
+  30% {
+    transform: rotate(-8deg);
+  }
+  40% {
+    transform: rotate(14deg);
+  }
+  50% {
+    transform: rotate(-4deg);
+  }
+  60% {
+    transform: rotate(10deg);
+  }
+  70% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
