@@ -71,7 +71,7 @@ The github link is provided for this notebook.
 ## **Workshop Notebook**
 
  <iframe
-       src="./workshop.html"
+       src="workshop.html"
        width="100%"
        height="8420px"
        style="border:none;">
