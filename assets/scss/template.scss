@@ -1,3 +1,4 @@
+
 .portrait-title h2 {
   font-size: 1.2rem;
 }
@@ -34,36 +35,9 @@
   }
 }
 
-
 #profile > div > h2 {
   font-weight: 500;
 }
-
-.workshop-notebook{
-  // display none for mobile
-  @media (max-width: 767.98px){
-    display: none;
-  }
-}
-
-// .article-style a{
-//   color: #65a8ff !important;
-//     &:hover {
-//     color: #1565C0 !important;
-//     transition: 100ms;
-//   }
-// }
-
-// #profile div h3:nth-child(3) a {
-//   color: rgb(22, 103, 209) !important;
-
-//   &:hover {
-//     color: #1565C0 !important;
-//     // text-decoration: underline;
-//     transition: 100ms;
-//   }
-
-// }
 
 .title-text{
   &:hover {    

@@ -29,15 +29,15 @@ Any machine learning model is only as good as the data on which the model was tr
 
 **(1) Time Series and Distribution Plot**
 
-Firstly, to get an overview of the given data, we plotted the time-series plot with** energy consumption along the y-axis** and **timestamp along the x-axis. **The graph looks periodic at first-sight (further elaboration in later sections).
+Firstly, to get an overview of the given data, we plotted the time-series plot with **energy consumption along the y-axis** and **timestamp along the x-axis.** The graph looks periodic at first-sight (further elaboration in later sections).
 
 ![](https://cdn-images-1.medium.com/max/2000/1*fCn8o7ynoG12SyalEh1HSA.png)
 
-Next, we plot the distribution graph of energy consumption and it is evident that the **data is not normally distributed. **It is important to note that making the input data normally distributed helps the model learn much faster.
+Next, we plot the distribution graph of energy consumption and it is evident that the **data is not normally distributed.** It is important to note that making the input data normally distributed helps the model learn much faster.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*_77jyVffWKHXm3QtK0RjNA.png)
 
-To extend the time-series visualization, We resampled the given data (**originally sampled at an interval of 15 mins) **at\*\* \*\*1 Hour, 1 Day, 1 Month, and 1 Year. The first plot shows the original data (15 Mins) and the following plots show the resampled data at the respective intervals.
+To extend the time-series visualization, We resampled the given data (**originally sampled at an interval of 15 mins)** at 1 Hour, 1 Day, 1 Month, and 1 Year. The first plot shows the original data (15 Mins) and the following plots show the resampled data at the respective intervals.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*6hVozghIaa-0soUk2kKyQw.png)
 
@@ -47,7 +47,7 @@ To study the distribution of energy consumption, we group the data on an hourly 
 
 ![](https://cdn-images-1.medium.com/max/2000/1*Nx4X6Ccz7wL8vkUH7pzWMw.png)
 
-We can infer from the heatmap that energy consumption has relatively high values from **7 AM till 6 PM** in the hourly plot. The same is true from **Monday (dow=0) to Friday (dow=4) **in the daily plot. So these are potential features that could be used as input to train our model.
+We can infer from the heatmap that energy consumption has relatively high values from **7 AM till 6 PM** in the hourly plot. The same is true from **Monday (dow=0) to Friday (dow=4)** in the daily plot. So these are potential features that could be used as input to train our model.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*hTb0kMWPRBH07EWd6iPw-A.png)
 
@@ -91,7 +91,7 @@ To combat the problems caused by the skewness of the data, we apply logarithmic 
 
 **(2) Adding Temporal Components**
 
-From the heatmaps in the EDA, we infer that features such as day of the week and hour of the day could be important to forecast energy consumption. We achieved this by splitting the DateTime component into its constituents such as **day of the week, day of the year, week of the year, day of the month**. We also added a** categorical variable to represent holidays.**
+From the heatmaps in the EDA, we infer that features such as day of the week and hour of the day could be important to forecast energy consumption. We achieved this by splitting the DateTime component into its constituents such as **day of the week, day of the year, week of the year, day of the month**. We also added a **categorical variable to represent holidays.**
 
 **(3) Adding Cyclic Nature to Temporal Components**
 

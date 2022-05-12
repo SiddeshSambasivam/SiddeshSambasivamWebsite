@@ -79,6 +79,7 @@ highlight_languages:
   - r
   - python
   - latex
+  - java
 math: true
 diagram: true
 # privacy_pack: true

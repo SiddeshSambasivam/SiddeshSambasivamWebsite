@@ -35,6 +35,8 @@ toc: false
 
 The courses provides an introduction to fundamental theory and concepts of computational intelligence methods, specifically, fuzzy systems, neural networks, genetic algorithms and their applications in the area of machine intelligence.
 
+{{< list_children >}}
+
 ### References
 
 1. Dr. Su Rong. 2022. “EE4285: Computational Intelligence,” Singapore: Nanyang Technological University.

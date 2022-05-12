@@ -63,18 +63,3 @@ projects:
 {{% callout note %}}
 The github link is provided for this notebook.
 {{% /callout %}}
-
-<br/>
-
-<div class="workshop-notebook">
-
-## **Workshop Notebook**
-
- <iframe
-       src="workshop.html"
-       width="100%"
-       height="8420px"
-       style="border:none;">
- </iframe>
-
-</div>
