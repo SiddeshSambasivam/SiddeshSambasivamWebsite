@@ -1,6 +1,6 @@
 ---
 title: "1. Union-Find & Applications"
-date: "2021-05-09"
+date: "2022-05-12"
 type: book
 
 Summary: The lecture discusses the union–find data type and its several implementations. Finally, union–find data type is applied to the percolation problem from physical chemistry.

@@ -13,7 +13,7 @@ summary: This course covers the essential information that every serious program
 
 # Date page published
 
-date: 2018-05-09
+date: 2022-05-12
 
 # Book page type (do not modify).
 

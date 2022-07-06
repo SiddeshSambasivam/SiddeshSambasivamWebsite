@@ -1,6 +1,6 @@
 ---
 title: "Lecture 3: Fuzzy If-then & Fuzzy Reasoning"
-date: "2021-04-18"
+date: "2022-05-04"
 type: book
 weight: 20
 ---

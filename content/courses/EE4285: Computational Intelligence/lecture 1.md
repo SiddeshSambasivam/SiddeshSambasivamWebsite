@@ -1,6 +1,6 @@
 ---
 title: "Lecture 1: Introduction to Fuzzy Sets"
-date: "2021-04-18"
+date: "2022-05-04"
 type: book
 weight: 20
 ---

@@ -1,14 +1,14 @@
+#!/usr/bin/env bash
+
 create_post() {
     # Creates a new post in the blog directory
     read -p "Enter title: " title
     hugo new  --kind post blog/$title  
 }
 
-create_course() {
-    read -p "Enter course title: " title
-    hugo new --kind course courses/$title
+view_site(){
+  hugo server --disableFastRender --i18n-warnings
 }
-
 
 if declare -f "$1" > /dev/null
 then
