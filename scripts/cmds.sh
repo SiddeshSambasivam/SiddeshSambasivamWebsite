@@ -4,6 +4,11 @@ create_post() {
     hugo new  --kind post blog/$title  
 }
 
+create_course() {
+    read -p "Enter course title: " title
+    hugo new --kind course courses/$title
+}
+
 
 if declare -f "$1" > /dev/null
 then
