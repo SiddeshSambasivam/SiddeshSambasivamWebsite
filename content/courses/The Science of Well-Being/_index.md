@@ -9,7 +9,7 @@ linktitle: The Science of Well-Being
 
 # Page summary for search engines.
 
-summary: The courses provides an introduction to fundamental theory and concepts of computational intelligence methods, specifically, fuzzy systems, neural networks, genetic algorithms and their applications in the area of machine intelligence.
+summary: This course engages in a series of challenges designed to increase one's own happiness and build more productive habits. As preparation for these tasks, Professor Laurie Santos reveals misconceptions about happiness, annoying features of the mind that lead us to think the way we do, and the research that can help us change.
 
 # Date page published
 
