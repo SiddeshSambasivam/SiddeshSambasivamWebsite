@@ -1,11 +1,11 @@
 ---
 # Page title
 
-title: LeetCode - Interview preparation
+title: Interview preparation - DSA, Networking, System design
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 
-linktitle: LeetCode - Interview preparation
+linktitle: Interview preparation - DSA, Networking, System design
 
 # Page summary for search engines.
 
@@ -14,9 +14,9 @@ summary: This is a collection of interview questions and solutions.
 # Date page published
 
 date: 2022-07-29
-_build:
-  render: always
-  list: never
+# _build:
+# render: always
+# list: never
 
 # Book page type (do not modify).
 
