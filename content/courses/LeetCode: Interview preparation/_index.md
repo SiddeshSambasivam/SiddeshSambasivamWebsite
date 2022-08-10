@@ -1,24 +1,12 @@
 ---
 # Page title
 
-title: Interview preparation - DSA, Networking, System design
+title: Computer science - Data structures, Algorithms, Networking, System design and more.
+linktitle: Understanding computer science concepts
 
-# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-
-linktitle: Interview preparation - DSA, Networking, System design
-
-# Page summary for search engines.
-
-summary: This is a collection of interview questions and solutions.
-
-# Date page published
+summary: A collection of study materials for learning computer science concepts. These include data structures and algorithms questions, networking concepts, system design, and more.
 
 date: 2022-07-29
-# _build:
-# render: always
-# list: never
-
-# Book page type (do not modify).
 
 type: book
 
@@ -34,8 +22,8 @@ weight: 1
 toc: false
 ---
 
-{{< figure src="featured.png" width="500px" title="Coursera course banner" >}}
+{{< figure src="featured.png" width="500px" title="" >}}
 
-I have collated a few interesting leetcode questions that I used to prepare for interviews. I have also included solutions to the questions. In addition, I have also included some unsolved questions.
+A collection of study materials for learning computer science concepts. These include data structures and algorithms questions, networking concepts, system design, and more.
 
 <!-- {{< list_children >}} -->
