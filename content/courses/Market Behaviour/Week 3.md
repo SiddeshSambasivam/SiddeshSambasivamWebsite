@@ -1,5 +1,5 @@
 ---
-title: "1. Concept of self"
+title: "2. Concept of self"
 date: "2022-08-09"
 type: book
 weight: 40
