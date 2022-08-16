@@ -99,9 +99,9 @@ _Results:_
 
 ##### 2. Attention
 
-**Perceptual selection:** consumers select only a small portion of the stimuli \
-**Perceptual vigilance:** we are more likely to be aware of stimuli that relate to our current needs
-**Perceptual defense:** if a stimulus threatens us in some way, we may not process it
+**Perceptual selection:** consumers select only a small portion of the stimuli. \
+**Perceptual vigilance:** we are more likely to be aware of stimuli that relate to our current needs. \
+**Perceptual defense:** if a stimulus threatens us in some way, we may not process it.
 
 ##### 3. Interpretation
 
