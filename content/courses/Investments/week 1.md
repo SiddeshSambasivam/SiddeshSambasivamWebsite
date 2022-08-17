@@ -198,10 +198,6 @@ $\text{Ask price} - \text{Bid price} = \text{Dealers profit}$
 2. Broker sells stock. Deposits proceeds and margin into margin account
    - Not allowed to withdraw the proceeds until you 'cover.'
 3. Covering or closing out the position:
-   - Buy the stock
-   - Return the stock title back to the party from which it was borrowed
-
-## E. Presentation Questions
 
 **Q1.** Breadtalk, a <u>small cap</u> stock, is currently trading at `$1.32`. It is expected to increase by `5%` tomorrow. OCBC, a <u>large cap</u>stock, is currently trading at `$9.50`. It is expected to fall by `5%` tomorrow. Both stocks are in the Straits Times Index (STI).
 
@@ -227,3 +223,5 @@ market prices, will your order be executed?
 > sell order as sell high.”
 
 _Are these two statements consistent?_
+
+Yes, they are consistent.

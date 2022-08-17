@@ -12,11 +12,22 @@ toc: true
 
 ### A.1. Trading Costs
 
-1. Commission: Fee paid to broker for making the transaction
+1. **Commission**: Fee paid to broker for making the transaction
+   - SG: 0.5%
+   - HK: 1%
+   - CHN: 0.05%
+   - US: $9.9/trade (Irespective of the amount of the trade)
 2. Spread: Costof trading with dealer
    - Bid: Price the dealer is willing to pay
    - Ask: Price the dealer will sell
    - $\text{Spread} = \text{Bid} - \text{Ask}$
+
+{{% callout note %}}
+_Depth of the market:_ Total number of shares offered for trading at the best bid and ask prices.
+
+- Market orders are highly volatile and can be executed at any price.
+
+{{% /callout %}}
 
 ### A.2. Margin Trading
 
@@ -105,7 +116,9 @@ All the formulations remain almost the same as trading on margin, except the equ
 
 $$\text{Equity}=\text{Initial margin account}-\text{MVSP}-\text{Dividends}$$
 
-Market value of stock position and dividends are subtracted as the stocks are borrowed.
+_Market value of stock position and dividends are subtracted as the stocks are borrowed._
+
+- The lender lends the stock with additional interest and commission imposed on the lending.`
 
 $$\text{Initial margin account} = \text{Proceeds from sale}+\text{Cash deposited to meet margin requirements}$$
 
@@ -142,4 +155,10 @@ The geometric mean differs from the arithmetic average, or arithmetic mean, in h
 
 {{% /callout %}}
 
-## C. Critical Thinking
+## C. Class notes
+
+Singapore is one to the top most expensive city to live in the world.
+
+_What can we learn from buffett's investment strategy?_
+
+- Value investing: Fundamental analysis
