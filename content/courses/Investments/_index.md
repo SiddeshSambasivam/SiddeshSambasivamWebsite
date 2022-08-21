@@ -35,3 +35,24 @@ toc: false
 ## Course Info
 
 This course provides the basic understanding and tools to conduct portfolio analysis, make investment decisions, and manage portfolios. Furthermore, it covers the analysis of various investment vehicles (stocks, bonds, and options), allocation of assets, and modern portfolio theory.
+
+## Big Picture
+
+### 1. Elements of investments (Background)
+
+- Asset classes and financial instruments
+- Securities markets and trading
+
+### 2. Modern portfolio theory
+
+- Risk and return
+- Efficient diversification
+- CAPM and APT
+- Efficient market hypothesis
+
+### 3. Other investments
+
+- Mutual funds and other investment companies
+- Bonds
+- Options markets
+- Options valuation
