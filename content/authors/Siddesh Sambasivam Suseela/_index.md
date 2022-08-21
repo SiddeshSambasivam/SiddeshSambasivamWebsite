@@ -84,4 +84,4 @@ Previously, I worked as a **Backend Engineer** at Shopee, Singapore. My work was
 
 Find me on <a href="https://github.com/siddeshSambasivam" target="_blank">Github</a>, <a href="https://twitter.com/ssiddesh45" target="_blank">Twitter</a>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Siddesh Sambasivam Suseela - Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
