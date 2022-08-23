@@ -2,7 +2,7 @@
 title: "2. Concept of self"
 date: "2022-08-09"
 type: book
-weight: 40
+weight: 3
 toc: true
 _build:
 render: always
@@ -73,7 +73,7 @@ Consumers use products, make-up and fashion to manage others' impression of them
 
 ## D. Social self
 
-A consumer often play multiple roles depending on where they are - at home, at work, with friends, in the community. This is termed as **multiple selves**.
+**Dramaturgical Perspective:** A consumer often play multiple roles depending on where they are - at home, at work, with friends, in the community. This is termed as **multiple selves**.
 
 ### D1. Symbolic Interactionism
 
@@ -91,7 +91,3 @@ _Who is the extended self?_
   - Group level: Owning something (experience, materials)that is shared by a group of people
 
 **Self-congruence models:** Consumers buy products and brands they believe to possess symbolic meanings that are similar and/or complementary to their self-concept.
-
-## F. Complementary Materials
-
-### F1. Class notes

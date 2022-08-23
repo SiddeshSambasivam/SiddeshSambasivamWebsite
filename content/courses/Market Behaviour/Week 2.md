@@ -2,7 +2,7 @@
 title: "1. Perception"
 date: "2022-08-15"
 type: book
-weight: 40
+weight: 1 
 toc: true
 
 toc: true

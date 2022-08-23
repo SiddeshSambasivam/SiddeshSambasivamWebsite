@@ -2,7 +2,7 @@
 title: "1R. Perception - Weekly readings"
 date: "2022-08-15"
 type: book
-weight: 40
+weight: 2
 toc: true
 
 toc: true
