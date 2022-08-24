@@ -33,7 +33,7 @@ In the scope of investments, expectation is the investors' forecast of different
 
 $$\textbf{E(r)} = \Sigma_{s} \ p(s) \times [r_s]$$
 
-_Variance_ is an important measure of uncertainty. Gives a quantitative measure of how much realized deviates from what expected.
+_Variance_ is an important measure of uncertainty. Gives a quantitative measure of how much realized deviates from what expected. This is also known as _volatality_.
 
 $$\sigma^2 = \Sigma_{s} \ p(s) \times [r_s - \text{E(r)}]^2$$
 
@@ -88,11 +88,11 @@ The **mean** is the **location parameter** while the **standard deviation** is t
 
 The empirical rule, or the 68-95-99.7 rule, tells you where most of your values lie in a normal distribution:
 
-- Around 68% of values are within 1 standard deviation from the mean.
-- Around 95% of values are within 2 standard deviations from the mean.
-- Around 99.7% of values are within 3 standard deviations from the mean.
+- Around 68.26% of values are within 1 standard deviation from the mean.
+- Around 95.44% of values are within 2 standard deviations from the mean.
+- Around 99.74% of values are within 3 standard deviations from the mean.
 
-_Value at Risk (VaR):_ The value at risk is the expected shortfall for a given confidence level.
+{{< hl >}}_Value at Risk (VaR):_ The value at risk is the expected shortfall for a given confidence level.{{< /hl >}}
 
 - $E+(x)\sigma$ are the best cases
 - $E-(x)\sigma$ are the worst cases
@@ -101,7 +101,7 @@ Hence, the attractiveness of an investment depends not just on the expected retu
 
 ### II. Arithmetic vs. Geometric
 
-When evaluating performance, the geometric average is more precise in describing performance when volatility is high.
+When evaluating _past performance_, the geometric average is more precise in describing performance when volatility is high.
 
 When **statistically** calculating _expected returns_ using historical data, use simple average (Arithmetic) often because it is convenient, and it has nice statistical properties.
 
@@ -118,7 +118,7 @@ When **statistically** calculating _expected returns_ using historical data, use
 
     - Investors are risk averse hence require a compensation to take on risk.
 
-  * (aka) average excess return
+  * (aka) **average excess return**
 
 - **Risk-free rate $(r_f)$**: Rate of return that can be earned with certainty.
 
@@ -158,13 +158,15 @@ $$\sigma^2_{\text{complete}}=(y\sigma_{rp})^2 + [(1-y)\sigma_{\text{rf}}]^2$$
 
 {{< figure src="/investments/cal.png" title="Image from the lecture slide" width="600px">}}
 
-$$E(r_c) = r_f + y\times(E(r_p)-r_f)$$
+$$E(r_c) = r_f + \frac{\sigma_c}{\sigma_p}\times(E(r_p)-r_f)$$
 
 The slope of the CAL measures the **trade-off** between risk ($\sigma_p$) and **risk premium** ($E[r_p]-r_f$).
 
 The slope is known as the **Sharpe ratio.**
 
 #### 1. Using Leverage with CAL
+
+_Assumption:_ Borrow at risk-fre rate. (To ensure that the line is linear)
 
 Borrow at the risk-free rate and invest in risky portfolio.
 With 50% leverage: $y=1.5$
@@ -176,6 +178,10 @@ Borrowed money = $5,000
 $$y=\frac{\text{own money}+\text{borrowed money}}{\text{own money}}$$
 
 {{< figure src="/investments/cap-lev.png" width="600px" title="Image from the lecture slide">}}
+
+The line should be straight because for the following simple reasons.
+
+- It could be kinked line if borrowing cost is higher than Rf.
 
 ### IV. Risk Aversion and Allocation
 
