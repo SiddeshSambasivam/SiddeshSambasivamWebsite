@@ -186,6 +186,13 @@ expected return.
 
 ### V. Quantifying Risk Aversion
 
+Mean-variance analysis is one part of <u>modern portfolio theory</u>.
+
+**Assumption:** Investors seek low risk and high reward.
+
+- Variance may tell how spread out the returns of a specific security are on a daily or weekly basis.
+- Expected return is a probability expressing the estimated return of the investment in the security.
+
 $$A = \frac{E(r_c)-r_f}{\sigma_c^2}\gt0 \ \text{if risk adverse}$$
 
 - Large A means that investor require additional return to bear risk
