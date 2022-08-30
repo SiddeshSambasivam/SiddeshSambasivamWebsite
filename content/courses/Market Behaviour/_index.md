@@ -1,11 +1,11 @@
 ---
 # Page title
 
-title: Market Behaviour
+title: Consumer Insights
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 
-linktitle: Market Behaviour
+linktitle: Consumer Insights
 
 # Page summary for search engines.
 

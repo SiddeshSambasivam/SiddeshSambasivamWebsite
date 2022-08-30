@@ -29,6 +29,9 @@ image:
 weight: 1
 
 toc: false
+_build:
+  render: always
+  list: never
 ---
 
 {{< figure src="featured.png" width="250px" title="Image from https://algs4.cs.princeton.edu" >}}

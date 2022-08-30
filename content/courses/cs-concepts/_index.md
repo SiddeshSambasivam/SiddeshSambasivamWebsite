@@ -1,10 +1,10 @@
 ---
 # Page title
 
-title: Computer science - Data structures, Algorithms, Networking, System design and more.
+title: Understanding computer science concepts
 linktitle: Understanding computer science concepts
 
-summary: A collection of study materials for learning computer science concepts. These include data structures and algorithms questions, networking concepts, system design, and more.
+summary: A collection of learning notes of computer science concepts. These include data structures and algorithms, networking, operating systems, system design, databases and more.
 
 date: 2022-07-29
 
@@ -24,6 +24,6 @@ toc: false
 
 {{< figure src="featured.png" width="500px" title="" >}}
 
-A collection of study materials for learning computer science concepts. These include data structures and algorithms questions, networking concepts, system design, and more.
+A collection of learning notes of computer science concepts. These include data structures and algorithms, networking, operating systems, system design, databases and more.
 
 <!-- {{< list_children >}} -->

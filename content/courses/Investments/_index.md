@@ -1,11 +1,11 @@
 ---
 # Page title
 
-title: "BF2201: Investments"
+title: "Investments Principles"
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 
-linktitle: "BF2201: Investments"
+linktitle: "Investments Principles"
 
 # Page summary for search engines.
 
