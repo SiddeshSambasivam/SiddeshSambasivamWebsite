@@ -28,6 +28,9 @@ The reason candy is at the checkout line is because of a concept called **decisi
 
 _Q. Is buying candy different from buying a car?_
 
+- Price of a candy is very different from the price of the car.
+- The decision to buy a car is a **high involvement** decision, while buying candy is a **low involvement** decision.
+
 ### 1. Key Ideas
 
 - Decision-making requires a lot of cognitive resources
@@ -38,6 +41,35 @@ _Q. Is buying candy different from buying a car?_
 
 - Group Project Work:
   - {{< hl >}}Write an interview guide{{< /hl >}}
+
+### 2. Interview Notes
+
+**Product:** Airpods
+
+**1. Have a deep understanding of the purchase decision-process**
+
+The product was purchased _3 years back_.
+
+- Interviewee mentioned about relatively low exposure to other products
+- Reason for the purchase: First saw the product among friends, peers, and family
+
+**2. Surface the factors in the environment and in the custome's psyche**
+
+**Extrinsic factors**
+
+- Friends were using the product
+- socially considered as cool;
+
+**Intrinsic factors:**
+
+- the product perfectly fit the interviewee's ear and was comfortable.
+- had a better compatibility with the exisiting ecosystem. (very used to the product)
+- It looked aesthetically pleasing
+
+### 3. Notes from other interviews
+
+- Identity is a social kind of construct and it is a very important factor in the decision making process.
+- Private and public goods are key determinants of the decision making process.
 
 **Decision fatigue:** the phenomenon in which an individual’s quality of decision deteriorates after long session of decision making
 
