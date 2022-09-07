@@ -138,6 +138,8 @@ A special case of the CAL is the **Capital Market Line** (CML), where a portfoli
 
 ## F. Index Model & Capital Asset Pricing
 
+An Index Model is a Statistical model of security returns.
+
 ### I. Single Index Model
 
 CAPM - Describes the relation between systematic risk and expected returns.
@@ -150,11 +152,23 @@ Idiosyncratic risk is the risk that is unique to a particular security.
 - Diversifiable risk
 - Unique risk
 
+A Single Index Model (SIM) specifies two sources of uncertainty for a security’s return:
+
+1. Systematic (macroeconomic) uncertainty (which is assumed to be well represented by a single index of stock returns)
+
+2. Unique (microeconomic) uncertainty (which is represented by a security-specific random component)
+
 A **well-diversified portfolio** has no idiosyncratic risk.
 
 The remaining risk is called **systematic risk / market risk.** Systematic risk arises from events that affect the entire economy. These include changes in interest rates/GDP or financial crises.
 
 ### II. Index Models
+
+{{% callout note %}}
+
+**Basic Idea:** Stocks tend to move together, driven by the same economic forces.
+
+{{% /callout %}}
 
 Ordinary least squares regression (Linear regression):
 $$Y = \alpha + \beta x + \epsilon$$
@@ -165,8 +179,18 @@ The same model can be applied to the relationship between the excess return of i
 
 $$R_{i,t} = \alpha_i + \beta_i R_{m,t} + \epsilon_{i,t}$$
 
-- $R_{i,t}$ is the excess return of the stock i at time t; ($r_{i,t}-r_{f,t}$).
+- $R_{i,t}$ is the excess (risk premium) return of the stock i at time t; ($r_{i,t}-r_{f,t}$).
+
 - $\beta_i$ is the sensitivity of the excess return of the stock to the excess return of the market.
+
 - $\epsilon$ is the unaticipated firm-based risk (abnormal return)
 
 $\beta_i R_{m,t}$ is the systematic risk of the stock i.
+
+#### To Remember
+
+- $\epsilon_{i,t}$ Idiosyncratic component of return: Part of $R_{i,t}$ NOT explained by $R_{m,t}$.
+  - Each month, you have $\epsilon_{i,t}$
+
+* $\alpha_i$ average excess return not explained by bi and the market risk premium.
+  - Only one value for the whole time periods of regression.
