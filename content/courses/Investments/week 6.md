@@ -30,6 +30,10 @@ A <u>well-diversified</u> portfolio of many securities:
 2. A beta of 1 related to one risk factor
 3. A beta of 0 w.r.t other risk factors
 
+   - Market portfolio with respect to the interest rate risk factor portfolio is:
+
+   $$\beta_{M, IR} = 0$$
+
 ### 3. Understanding equilibrium
 
 In equilibrium, a <u>well-diversified</u> portfolio P must satisfy:
@@ -44,9 +48,9 @@ Hence we can re-write the equation as:
 
 $$E(r_p) = r_f + \beta_p\times(E(r_M)-r_f)$$
 
-This is very similar to **index models.**
+This is very similar to **CAPM.**
 
-$$r_p -r_f = \alpha_p + \beta_p(r_M-r_f) + \epsilon_p$$
+$$E(r_i) = r_f + \beta_i\times(E(r_M)-r_f)$$
 
 If $\alpha_p \ne 0$, an arbitrage opportunity exists.
 
@@ -62,5 +66,7 @@ How to take advantage of arbitrage opportunity?
 No initial investment + No risk
 
 ## C. 1-Factor Arbitrage Pricing
+
+**Step 1:**
 
 ## D. 2-Factor Arbitrage Pricing

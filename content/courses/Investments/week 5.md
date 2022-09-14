@@ -84,6 +84,15 @@ $$\beta_i = \frac{cov(r_i,r_M)}{\sigma_M^2}$$
 
 - Beta is the **sensitivity** of a security’s excess return to the systematic factor (mkt risk premium).
 
+### III. Understanding alpha
+
+Alpha measures how much expected returns differ from CAPM-implied expected returns.
+
+$$\alpha = E(r_i) - r_f - \beta_i(E(r_M)-r_f)$$
+
+- If $\alpha_i > 0$, then the security is underpriced and should be bought.
+- If $\alpha_i < 0$, then the security is overpriced and should be short.
+
 ### III. CAPM: Security Market Line
 
 {{< figure src="/investments/sml-capm.png" width="300px" title="Image from course lecture slides">}}
@@ -93,8 +102,6 @@ SML Slope is given by:
 $$\frac{E[r_i]-r_f}{\beta_i} = \frac{E[r_m]-r_f}{\beta_m}$$
 
 And $\beta_m = 1$, which gives us the CAPM equation.
-
-- Buy positive $\alpha$ stocks to get market risk premium
 
 ## C. Arbitrage Pricing Theory (APT)
 
@@ -123,3 +130,13 @@ A systematic risk must be:
   have the same payoff but **DO NOT** have the **same price**
 
 {{% /callout %}}
+
+## D. How CML, CAPM, single index model and APT are related?
+
+- **CML and CAPM**: If the assumptions for cAP are true, the optimal risky portfolio becomes the market portfolio, and then we have CAPM.
+
+- **Single index model** is used to test the theories, for example, here CAPM, to see whether CAPM receives empirical support using data.
+
+- **APT** is another theoretical model to price the financial assets. It's based on different assumptions. In week-2, you will see more of the differences with CAPM.
+
+- To test APT, we will introduce **multi-factor models** (empirical models).

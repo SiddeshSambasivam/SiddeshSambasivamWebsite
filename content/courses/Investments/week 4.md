@@ -183,7 +183,7 @@ $$R_{i,t} = \alpha_i + \beta_i R_{m,t} + \epsilon_{i,t}$$
 
 - $\beta_i$ is the sensitivity of the excess return of the stock to the excess return of the market.
 
-- $\epsilon$ is the unaticipated firm-based risk (abnormal return)
+- $\epsilon$ is the unanticipated firm-based risk (abnormal return)
 
 $\beta_i R_{m,t}$ is the systematic risk of the stock i.
 
