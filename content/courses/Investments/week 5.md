@@ -72,13 +72,13 @@ Given all the assets have been invested in the risky portfolio (y=1), the market
 
 $$E[r_M]-r_f = A\times\sigma_M^2$$
 
-According to capital asset pricing model, the expected return of an asset is a linear function of the expected return of the market portfolio and risk-free rate.
+According to {{< hl >}}capital asset pricing model{{< /hl >}}, the expected return of an asset is a linear function of the expected return of the market portfolio and risk-free rate.
 
 $$E[r_{i}] = r_f + \beta_i(E[r_M]-r_f)$$
 
 ### II. Understanding Beta
 
-Beta is a measure of the systematic risk of a security relative to the market.
+Beta is a {{< hl >}}measure of the systematic risk{{< /hl >}} of a security relative to the market.
 
 $$\beta_i = \frac{cov(r_i,r_M)}{\sigma_M^2}$$
 
