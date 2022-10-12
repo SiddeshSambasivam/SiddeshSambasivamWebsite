@@ -73,12 +73,7 @@ Always note the following:
 
 ### 1. Risk Model: Jensen's Alpha
 
-$$
-
-\alpha_P = \bar{R}\_P - \beta_P \bar{R}\_M
-
-
-$$
+$$\alpha_P = \bar{R}\_P - \beta_P \bar{R}\_M$$
 
 - $\alpha_P$ Portfolio alpha
 - $\bar{R}_P$ Average excess return on the portfolio
@@ -101,12 +96,7 @@ If <u>markets are efficient,</u> then before expenses, an average mutual fund ha
 
 - Select funds using the `Treynor ratio`:
 
-$$
-
-\text{Treynor ratio} = \frac{\bar{r_p} - \bar{r_f}}{\beta_p}
-
-
-$$
+$$\text{Treynor ratio} = \frac{\bar{r_p} - \bar{r_f}}{\beta_p}$$
 
 - $\bar{r_p}$ Average return on the portfolio
 - $\bar{r_f}$ Average risk-free rate
@@ -115,12 +105,7 @@ $$
 3. Adding an actively managed portfolio: Information Ratio
    - An actively managed portfolio delivers the benefit of $\alpha$, but adds idiosyncratic risk to our passive benchmark portfolio.
 
-$$
-
-\text{Information ratio} = \frac{\alpha_p}{\sigma(e_p)}
-
-
-$$
+$$\text{Information ratio} = \frac{\alpha_p}{\sigma(e_p)}$$
 
 - $\alpha_p$ per unit of unsystematic risk
 - $\sigma(e_p)$ Standard deviation of the $e_p$ from an index model: $R_p = \alpha_p + \beta_p R_m + e_p$
