@@ -39,10 +39,10 @@ A mutual fund is a portfolio of financial securities. Many investors (typically 
 - Passive management -- Invest in a well-diversified portfolio without searching for security mispricing.
 
   - Examples include index funds, ETFs, etc.
-  - Assumes the efficient market hypothesis is true
+  - Assumes the **efficient market hypothesis is true**
 
 - Active management -- Identifying the "mispriced" securities to beat the market
-  - Assumes the efficient market hypothesis is false
+  - Assumes the **efficient market hypothesis is false**
 
 ### 1. Net Asset Value (NAV)
 
@@ -55,10 +55,12 @@ $$\text{NAV} = \frac{\text{Market Value of Assets} - \text{Liabilities}}{\text{N
 ### 2. Mutual fund fees
 
 1. Front-end load -- A fee charged when you buy the fund
+   - {{<hl>}} Front-end load does NOT affect NAV. {{</hl>}}
 
 $$\text{Offer}_{t=0} = \frac{\text{NAV}_0}{1-\text{front-end load}}$$
 
 2. Back-end load -- A fee charged when you sell the fund
+   - {{<hl>}} Back-end load does NOT affect NAV. {{</hl>}}
 
 $$\text{Redeem}_{t=1} = \frac{\text{NAV}_1}{1-\text{back-end load}}$$
 
@@ -68,6 +70,13 @@ $$\text{Redeem}_{t=1} = \frac{\text{NAV}_1}{1-\text{back-end load}}$$
 Always note the following:
 
 - Make sure to subtract the expense ratio from the return; this return the current NAV
+
+#### Calculating <u>Returns</u>
+
+$$\text{Return}_{fund}=\frac{\text{Redeem} - \text{Offer} + \text{Distributions}}{\text{Offer}}$$
+
+- what is distribution??
+  - Income - if mutual fund includes stocks, then it includes dividends or bond can payout coupons
 
 ## B. Portfolio Performance Evaluation
 
@@ -122,6 +131,3 @@ Hedge funds attempt to follow a <u>market neutral strategy</u>:
 | Sharpe Ratio        | To select one fund: for use as the optimal risky portfolio                   |
 | Treynor Ratio       | Select fund of funds: for many portfolios                                    |
 | Information Ratio   | Add to benchmark: For adding an active fund to an existing passive benchmark |
-
-$$
-$$
