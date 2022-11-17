@@ -98,6 +98,8 @@ $$P_{i,t} = B_{i} \times P_{i,t-1} + e_{i,t}$$
 
 {{< figure src="/investments/emh-info.png" title="Relation b/w forms of EMH" >}}
 
+{{< hl >}}Always use the information set to evaluate EMH related questions.{{< /hl >}}
+
 1. Weak Form: Prices reflect all past information (historical prices and trading data)
 
    - if markets are weak-form efficient, investors can never construct a strategy with positive risk-adjusted returns using using historical price and trading data.
@@ -109,3 +111,10 @@ $$P_{i,t} = B_{i} \times P_{i,t-1} + e_{i,t}$$
 3. Strong Form: Prices reflect all information: both public and private
 
    - if markets are strong-form efficient, investors can never construct a strategy with positive risk-adjusted returns using any information (public or private)
+
+{{% callout note %}}
+
+- **Technical analysis** is a trading discipline employed to evaluate investments and identify trading opportunities by analyzing statistical trends gathered from trading activity, such as price movement and volume.
+
+- **Fundamental analysis**, which attempts to evaluate a security's value based on business results such as sales and earnings.
+  {{% /callout %}}

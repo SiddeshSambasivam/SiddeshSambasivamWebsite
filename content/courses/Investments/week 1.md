@@ -14,6 +14,7 @@ Money market is a subsector of the _debt_ market.
 
 - <u>Short term</u> debt instruments
 - Highly marketable (high liquidity)
+- Low rates of return
 
 **Q.** _What are debt instruments?_ \
 Debt refers to money borrowed by corporates or the government in order to finance their capital needs. Deby relfects an obligation of the company to pay back. Example of debt instruments:

@@ -71,12 +71,18 @@ Always note the following:
 
 - Make sure to subtract the expense ratio from the return; this return the current NAV
 
+{{< callout note >}}
+**Open-end fund:** Assume frontend load
+{{< /callout >}}
+
 #### Calculating <u>Returns</u>
 
 $$\text{Return}_{fund}=\frac{\text{Redeem} - \text{Offer} + \text{Distributions}}{\text{Offer}}$$
 
 - what is distribution??
   - Income - if mutual fund includes stocks, then it includes dividends or bond can payout coupons
+
+$$\text{Return_fund}=\frac{\text{NAV}(1+\text{cap gain})(1-\text{exp ratio}) }{N}-1$$
 
 ## B. Portfolio Performance Evaluation
 

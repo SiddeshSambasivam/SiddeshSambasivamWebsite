@@ -28,11 +28,8 @@ toc: true
   - **Premium bonds** -- Bond prices are higher than par value
   - **Discount bonds** -- Bond prices are lower than par value
 
-{{% callout warning %}}
-
-Learn how to use financial calculator to solve bond problems.
-
-{{% /callout %}}
+- Bond prices are less sensitive to interest rate if bond has shorter maturity and higher YTM
+- An increase in a bond’s YTM results in a smaller price change than a decrease in yield of equal magnitude
 
 ## B. Yield Curve
 

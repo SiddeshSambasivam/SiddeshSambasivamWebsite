@@ -71,7 +71,7 @@ $$\frac{E}{\text{MVSP}} \le \text{MMR}$$
 
 A margin call occurs,
 
-$$\text{MVSP} \le \frac{\text{L}-\text{I}+\text{C}+\text{D}}{1-\text{MMR}}$$
+$$\text{MVSP} \le \frac{\text{B}-\text{I}+\text{C}+\text{D}}{1-\text{MMR}}$$
 
 A few key things to remember:
 
@@ -124,6 +124,8 @@ $$\text{Initial margin account} = \text{Proceeds from sale}+\text{Cash deposited
 
 Furthermore, margin cll occurs when,
 $$\text{MVSP} \ge \frac{\text{Margin Account} - \text{Dividend}}{1+\text{MMR}}$$
+
+The initial investment is the down payment of the IMR.
 
 {{% callout note %}}
 
