@@ -17,6 +17,10 @@ type: page
 
 summary: "A brief introduction to AI and Data Mining. This post covers basic concepts discussed in the course, 'IE4483: AI and Data Mining' at NTU, Singapore."
 
+
+_build:
+  render: always
+  list: never
 # _build:
   # render: always
   # list: never

@@ -6,6 +6,10 @@ type: book
 summary: " "
 
 weight: 10
+
+_build:
+  render: always
+  list: never
 ---
 
 ### A. Concept of Clustering

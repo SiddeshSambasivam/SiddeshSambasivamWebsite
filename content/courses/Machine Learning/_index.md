@@ -28,9 +28,9 @@ image:
 
 weight: 1
 # toc: false
-# _build:
-#   render: always
-#   list: never
+_build:
+  render: always
+  list: never
 ---
 
 ## Course Info
