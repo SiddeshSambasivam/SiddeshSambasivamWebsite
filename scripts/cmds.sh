@@ -7,7 +7,7 @@ create_post() {
 }
 
 view_site(){
-  hugo server --disableFastRender --i18n-warnings
+  hugo server --disableFastRender 
 }
 
 if declare -f "$1" > /dev/null

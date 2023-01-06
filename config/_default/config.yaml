@@ -1,33 +1,16 @@
-# Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-title: Siddesh's Notes 📑
+title: The Commonplace Book
 baseurl: "https://astonishing-cascaron-88f1ee.netlify.app"
-copyright: "Siddesh Sambasivam Suseela © **2022**"
-
-############################
-## LANGUAGE
-############################
+copyright: "Siddesh Sambasivam Suseela © **2023**"
 
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-############################
-## MODULES
-############################
-
 module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
-
-############################
-## ADVANCED
-############################
 
 enableGitInfo: false
 summaryLength: 30
