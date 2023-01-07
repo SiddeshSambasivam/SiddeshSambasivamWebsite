@@ -29,6 +29,17 @@ a {
   padding-bottom: 10px;
 }
 
+.article-container {
+  &.pt-3 h1{
+    font-weight: bold;
+    text-align: center;
+  }
+
+  &.pt-3 {
+    text-align: center;
+  }
+}
+
 // Dark themed alterations
 .dark{
 

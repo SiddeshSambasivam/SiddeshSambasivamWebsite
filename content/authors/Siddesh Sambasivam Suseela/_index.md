@@ -7,7 +7,7 @@ organizations:
   - name: Hypotenuse AI
     url: https://www.hypotenuse.ai/
 
-bio: I am a senior at Nanyang Technological University, pursuing a Bachelor's in Electrical and Electronic Engineering.
+bio: I am a Software Engineer at Hypotenuse AI.
 
 interests:
   - Software Engineering
@@ -27,14 +27,21 @@ email: "siddeshsambasivam.official@gmail.com"
 highlight_name: true
 ---
 
-<p>I’m Siddesh and this is my digital <a href="https://en.wikipedia.org/wiki/Commonplace_book" target="_blank">commonplace book</a>. I am a full-stack software engineer at <a href="https://www.hypotenuse.ai/" target="_blank">Hypotenuse AI</a>. Recently, I graduated from Nanyang Technological University with a Bachelor’s in Electrical and Electronic Engineering and a second major in Business.</p>
+<p style="margin-top:1rem;">I’m Siddesh and this is my digital <a href="https://en.wikipedia.org/wiki/Commonplace_book" target="_blank" style="text-decoration:underline">commonplace book</a>.</p>
 
-<p style="margin-top:2rem; font-weight:600; margin-bottom:1rem;">Explore More</p>
+<p style="margin-top:1.5rem; font-weight:600; margin-bottom:0.3rem;">Explore More</p>
+<ul style="list-style-type:none; padding-left:0.5rem; line-height:2.5rem;">
+  <li>
+    👉 <u><a href="/start-here">Start here</a></u> to get an overview of the website
+  </li>
+  <li>
+    🧑‍💻 My <u><a href="https://www.linkedin.com/in/siddeshss/details/experience/" target="_blank">past work experiences</a></u> and learnings
+  </li>
+  <li>
+    🧵 Find me on <u><a href="https://github.com/siddeshSambasivam" target="_blank">Github</a></u>, <u><a href="https://www.linkedin.com/in/siddeshss/" target="_blank">LinkedIn</a></u> and <u><a href="https://twitter.com/ssiddesh45" target="_blank">Twitter</a></u>
+  </li>
 
-👉 <u>[Start here](#)</u> to get an overview of the website.
-
-🧑‍💻 My <u>[past work experiences](#)</u> and learnings.
-
-🧵 Find me on <u><a href="https://github.com/siddeshSambasivam" target="_blank">Github</a></u>, <u><a href="https://www.linkedin.com/in/siddeshss/" target="_blank">LinkedIn</a></u> and <u><a href="https://twitter.com/ssiddesh45" target="_blank">Twitter</a></u>.
-
-{{< icon name="download" pack="fas" >}} My resumé can be found {{< staticref "uploads/Siddesh Sambasivam Suseela - Resume.pdf" "newtab" >}}<u>here</u>{{< /staticref >}}.
+  <li>
+    📑 My recent resumé can be found <u><a href="uploads/Siddesh Sambasivam Suseela - Resume.pdf" target="_blank">here</a></u>
+  </li>
+</ul>
