@@ -29,7 +29,7 @@ highlight_name: true
 
 <p style="margin-top:1rem;">I’m Siddesh and this is my digital <a href="https://en.wikipedia.org/wiki/Commonplace_book" target="_blank" style="text-decoration:underline">commonplace book</a>.</p>
 
-<p style="margin-top:1.5rem; font-weight:600; margin-bottom:0.3rem;">Explore More</p>
+<p style="margin-top:1.5rem; font-weight:600; margin-bottom:0.3rem;font-size:1.25rem">Explore More</p>
 <ul style="list-style-type:none; padding-left:0.5rem; line-height:2.5rem;">
   <li>
     👉 <u><a href="/start-here">Start here</a></u> to get an overview of the website
