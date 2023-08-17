@@ -21,8 +21,6 @@ image:
 
 At times, the most valuable lessons stem from introspection and analyzing the experiences from our own personal journeys. In that spirit, these are few crucial insights from my failed startup journey, encompassing engineering, business, design, and a myriad of other subjects.
 
-{{< figure src="/blog/datlite-banner.png" width="600px">}}
-
 ### Engineering Lessons
 
 1. _Embrace scrappiness:_ Startups have an edge over larger organizations because they can be nimble and adapt quickly. Don't get bogged down in planning features and services; instead, focus on implementing and iterating quickly.
