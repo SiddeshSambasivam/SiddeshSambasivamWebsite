@@ -1,5 +1,5 @@
 ---
-title: The Effective Engineer
+title: Learnings from "The Effective Engineer" by Edmond Lau
 date: 2022-07-29
 math: true
 diagram: true
@@ -15,6 +15,10 @@ image:
 
 reading_time: true
 pager: true
+
+_build:
+  render: never
+  list: never
 
 type: page
 
