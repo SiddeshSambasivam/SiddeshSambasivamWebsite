@@ -8,7 +8,7 @@ day_night: true
 site_type: Person
 description: "Siddesh's digital commonplace book"
 email: siddeshsambasivam.official@gmail.com
-twitter: "https://twitter.com/ssiddesh45"
+twitter: 'https://twitter.com/ssiddesh45'
 
 # Site header
 main_menu:
@@ -21,8 +21,8 @@ main_menu:
   highlight_active_link: true
 
 # Localization
-date_format: "Jan 2, 2006"
-time_format: "3:04 PM"
+date_format: 'Jan 2, 2006'
+time_format: '3:04 PM'
 address_format: en-us
 
 # Site features
@@ -36,8 +36,8 @@ math: true
 diagram: true
 # privacy_pack: true
 edit_page:
-  repo_url: ""
-  content_dir: ""
+  repo_url: ''
+  content_dir: ''
   repo_branch: main
   editable:
     page: false
@@ -59,7 +59,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: "This work is licensed under {license}"
+  notice: 'This work is licensed under {license}'
 abstract_length: 135
 plugins_js: []
 avatar:
@@ -76,7 +76,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ""
+  provider: ''
   commentable:
     post: true
     book: true
@@ -84,27 +84,27 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ""
+    shortname: ''
     show_count: true
   commento:
-    url: ""
+    url: ''
 search:
   provider: wowchemy
   algolia:
-    app_id: ""
-    api_key: ""
-    index_name: ""
+    app_id: ''
+    api_key: ''
+    index_name: ''
     show_logo: false
 map:
   provider: mapnik
-  api_key: ""
+  api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ""
-  google_tag_manager: "UA-228424239-1"
-  google_site_verification: ""
-  baidu_site_verification: ""
-  baidu_tongji: ""
+  google_analytics: ''
+  google_tag_manager: 'G-8H3NY4B44D'
+  google_site_verification: ''
+  baidu_site_verification: ''
+  baidu_tongji: ''
 cms:
   branch: master
   local_backend: false

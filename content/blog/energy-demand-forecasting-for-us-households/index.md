@@ -1,16 +1,28 @@
 ---
 title: Energy Demand Forecasting for US Households - Timeseries Forecasting Using Deep Learning
-date: 2019-05-09
+subtitle: ''
+summary: Energy consumption forecasting for buildings has immense value in energy efficiency and sustainability research. This post summarizes the experimentation and results of the energy demand forecasting for a building.
+authors:
+  [
+    'Abhinav Narayana Balasubramaniam ',
+    'Naseer Ahmed Khan',
+    'Arumugam Ramaswamy',
+    'Shiv Alagar',
+    'Siddesh Sambasivam'
+  ]
+tags: ['Timeseries Forecasting', 'Deep Learning', 'Energy Demand Forecasting']
+categories: []
+date: 2019-05-09T21:57:13+08:00
+lastmod: 2019-05-09T21:57:13+08:00
+featured: true
+draft: false
 math: true
 diagram: true
 highlight: true
 toc: true
-type: page
 image:
   placement: 1
-  caption: "Image credit: [**Photo from https://www.vox.com/energy-and-environment/2017/12/15/16714146/greener-more-reliable-more-resilient-grid-microgrids**](https://www.vox.com/energy-and-environment/2017/12/15/16714146/greener-more-reliable-more-resilient-grid-microgrids)"
-
-summary: Energy consumption forecasting for buildings has immense value in energy efficiency and sustainability research. This post summarizes the experimentation and results of the energy demand forecasting for a building.
+  caption: 'Image credit: [**Photo from https://www.vox.com/energy-and-environment/2017/12/15/16714146/greener-more-reliable-more-resilient-grid-microgrids**](https://www.vox.com/energy-and-environment/2017/12/15/16714146/greener-more-reliable-more-resilient-grid-microgrids)'
 ---
 
 {{< toc >}}
