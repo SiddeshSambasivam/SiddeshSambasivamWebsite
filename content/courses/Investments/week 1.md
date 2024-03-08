@@ -1,6 +1,6 @@
 ---
-title: "1. Asset classes and financial instruments"
-date: "2022-08-12"
+title: 'Asset classes and financial instruments'
+date: '2022-08-12'
 type: book
 weight: 1
 toc: true

@@ -1,6 +1,6 @@
 ---
-title: "2. Analysis of Algorithms"
-date: "2022-05-12"
+title: '2. Analysis of Algorithms'
+date: '2022-05-12'
 type: book
 
 summary: The lecture discusses the scientific method to analyze the performance of algorithms. Computational experiments were performed to measure the running times of test programs and these measurements were used to develop hypothesis about performance.

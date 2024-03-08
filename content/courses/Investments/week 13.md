@@ -1,9 +1,12 @@
 ---
-title: "11. Cheatsheet"
-date: "2022-11-14"
+title: 'Cheatsheet'
+date: '2022-11-14'
 type: book
 weight: 13
 toc: true
+_build:
+  render: always
+  list: never
 ---
 
 {{< toc >}}

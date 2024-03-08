@@ -1,9 +1,13 @@
 ---
-title: "6. CAPM and APT (Part-2)"
-date: "2022-08-12"
+title: 'CAPM and APT (Part-2)'
+date: '2022-08-12'
 type: book
 weight: 6
 toc: true
+
+_build:
+  render: always
+  list: never
 ---
 
 {{< toc >}}

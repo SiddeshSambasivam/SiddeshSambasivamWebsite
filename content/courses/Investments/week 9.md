@@ -1,6 +1,6 @@
 ---
-title: "9. Mutual funds and performance evaluation"
-date: "2022-10-04"
+title: 'Mutual funds and performance evaluation'
+date: '2022-10-04'
 type: book
 weight: 9
 toc: true

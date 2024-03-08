@@ -21,14 +21,17 @@ type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   placement: 0
   preview_only: false
 
 weight: 1
 
 toc: false
+# _build:
+#   render: always
+#   list: never
 ---
 
 {{< figure src="featured.jpg" width="250px" title="Fuzzy logic and systems" >}}

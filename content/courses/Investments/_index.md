@@ -1,11 +1,11 @@
 ---
 # Page title
 
-title: "Investments Principles"
+title: 'Investments Principles'
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 
-linktitle: "Investments Principles"
+linktitle: 'Investments Principles'
 
 # Page summary for search engines.
 
@@ -20,8 +20,8 @@ date: 2022-08-12
 type: book
 
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   placement: 0
   preview_only: false
 

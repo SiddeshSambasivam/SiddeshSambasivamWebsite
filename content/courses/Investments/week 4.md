@@ -1,6 +1,6 @@
 ---
-title: "4. Efficient diversification"
-date: "2022-08-12"
+title: 'Efficient diversification'
+date: '2022-08-12'
 type: book
 weight: 4
 toc: true

@@ -1,6 +1,6 @@
 ---
-title: "2. Securities markets and trading"
-date: "2022-08-12"
+title: 'Securities markets and trading'
+date: '2022-08-12'
 type: book
 weight: 2
 toc: true

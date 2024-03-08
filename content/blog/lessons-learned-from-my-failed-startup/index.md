@@ -17,6 +17,8 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+commentable: true
 ---
 
 At times, the most valuable lessons stem from introspection and analyzing the experiences from our own personal journeys. In that spirit, these are few crucial insights from my failed startup journey, encompassing engineering, business, design, and a myriad of other subjects.

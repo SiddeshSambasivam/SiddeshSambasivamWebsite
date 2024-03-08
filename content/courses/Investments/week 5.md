@@ -1,6 +1,6 @@
 ---
-title: "5. CAPM and APT (Part-1)"
-date: "2022-08-12"
+title: 'CAPM and APT (Part-1)'
+date: '2022-08-12'
 type: book
 weight: 5
 toc: true

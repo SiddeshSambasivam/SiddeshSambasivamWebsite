@@ -1,6 +1,6 @@
 ---
-title: "7. Efficient market hypothesis - I"
-date: "2022-09-20"
+title: 'Efficient market hypothesis - I'
+date: '2022-09-20'
 type: book
 weight: 7
 toc: true

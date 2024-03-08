@@ -1,6 +1,6 @@
 ---
-title: "3. Risk and return"
-date: "2022-08-12"
+title: 'Risk and return'
+date: '2022-08-12'
 type: book
 weight: 3
 toc: true

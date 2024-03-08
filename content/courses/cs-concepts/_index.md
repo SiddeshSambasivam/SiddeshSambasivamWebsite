@@ -12,8 +12,8 @@ type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   placement: 0
   preview_only: false
 
@@ -21,6 +21,8 @@ weight: 1
 
 toc: false
 ---
+
+{{< toc >}}
 
 {{< figure src="featured.png" width="500px" title="" >}}
 
