@@ -4,9 +4,10 @@
 title: Understanding computer science concepts
 linktitle: Understanding computer science concepts
 
-summary: A collection of learning notes of computer science concepts. These include data structures and algorithms, networking, operating systems, system design, databases and more.
+summary: A collection of learning notes about foundational concepts and theories in computer science, serving as a quick reference for understanding core principles.
 
-date: 2022-07-29
+# yyyy-mm-dd
+date: 2024-03-09
 
 type: book
 

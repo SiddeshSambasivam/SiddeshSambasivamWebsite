@@ -1,11 +1,11 @@
 ---
 # Page title
 
-title: EE4285 Computational Intelligence
+title: Notes for EE4285 Computational Intelligence
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 
-linktitle: EE4285 Computational Intelligence
+linktitle: Notes for EE4285 Computational Intelligence
 
 # Page summary for search engines.
 
