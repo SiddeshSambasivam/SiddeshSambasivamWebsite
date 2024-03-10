@@ -10,7 +10,13 @@ authors:
     'Shiv Alagar',
     'Siddesh Sambasivam'
   ]
-tags: ['Timeseries Forecasting', 'Deep Learning', 'Energy Demand Forecasting']
+tags:
+  [
+    'Quick read',
+    'Timeseries Forecasting',
+    'Deep Learning',
+    'Energy Demand Forecasting'
+  ]
 categories: []
 date: 2019-05-09T21:57:13+08:00
 lastmod: 2019-05-09T21:57:13+08:00
@@ -20,6 +26,7 @@ math: true
 diagram: true
 highlight: true
 toc: true
+comments: true
 image:
   placement: 1
   caption: 'Image credit: [**Photo from https://www.vox.com/energy-and-environment/2017/12/15/16714146/greener-more-reliable-more-resilient-grid-microgrids**](https://www.vox.com/energy-and-environment/2017/12/15/16714146/greener-more-reliable-more-resilient-grid-microgrids)'

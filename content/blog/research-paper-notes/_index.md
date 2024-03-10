@@ -1,12 +1,10 @@
 ---
-# Page title
-
-title: Research Paper Notes
+title: 📝 Research Paper Notes
 linktitle: Research Paper Notes
 
-summary: My collection of notes, insights and summaries from various research papers.
+summary: My collection of notes, insights, and concise summaries from research papers.
 
-date: 2024-03-09
+date: 2024-03-10
 
 type: book
 
@@ -20,8 +18,8 @@ image:
 weight: 1
 
 toc: false
+tags: ['Collection']
+comments: true
 ---
 
-{{< toc >}}
-
-A collection of learning notes from AI research papers and books.
+My collection of notes, insights, and concise summaries from research papers. These should serve as a quick and convenient reference for the discussed papers.

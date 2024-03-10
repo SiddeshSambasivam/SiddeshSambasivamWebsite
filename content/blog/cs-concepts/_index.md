@@ -1,13 +1,12 @@
 ---
 # Page title
 
-title: Understanding computer science concepts
+title: 🥽 Understanding computer science fundamentals
 linktitle: Understanding computer science concepts
 
 summary: A collection of learning notes about foundational concepts and theories in computer science, serving as a quick reference for understanding core principles.
 
-# yyyy-mm-dd
-date: 2024-03-09
+date: 2024-03-07
 
 type: book
 
@@ -21,6 +20,8 @@ image:
 weight: 1
 
 toc: false
+tags: ['Collection']
+comments: true
 ---
 
 {{< toc >}}

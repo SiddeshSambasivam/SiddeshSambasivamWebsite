@@ -3,7 +3,7 @@ title: 'Startup Post-Mortem: Lessons Learned from My Startup Odyssey'
 subtitle: ''
 summary: ''
 authors: ['Siddesh Sambasivam']
-tags: ['Startup lessons', 'Datlite']
+tags: ['Quick read', 'Startup lessons', 'Datlite']
 categories: []
 date: 2023-01-29T11:54:58+08:00
 lastmod: 2023-01-29T11:54:58+08:00
@@ -18,7 +18,7 @@ image:
   focal_point: ''
   preview_only: false
 
-commentable: true
+comments: true
 ---
 
 At times, the most valuable lessons stem from introspection and analyzing the experiences from our own personal journeys. In that spirit, these are few crucial insights from my failed startup journey, encompassing engineering, business, design, and a myriad of other subjects.

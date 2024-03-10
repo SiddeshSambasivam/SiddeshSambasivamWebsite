@@ -60,6 +60,44 @@ a {
   }
 }
 
+.article-summary {
+  color: #8c8c8c;
+  font-size: 0.85rem;
+  padding: 0;
+  margin: 0;
+}
+
+.article-title-list {
+  font-size: 1.1rem;
+  color: #202124;
+  font-weight: 600;
+  &:hover {
+    text-decoration: none;
+    transition: all 0.1s ease-in-out;
+  }
+}
+
+.article-metadata-list {
+  display: flex;
+  align-items: center;
+  color: #8c8c8c;
+  font-size: 0.85rem;
+  gap: 10px;
+}
+
+.article-metdata-tags {
+  display: flex;
+  align-items: center;
+}
+
+.view-list-item {
+  margin-bottom: 1.5rem;
+}
+
+.article-metadata-list .article-tags {
+  margin-top: 5px;
+}
+
 // Dark themed alterations
 .dark {
   & .navbar {

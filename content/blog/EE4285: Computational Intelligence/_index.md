@@ -1,7 +1,7 @@
 ---
 # Page title
 
-title: Notes for EE4285 Computational Intelligence
+title: 🧠 Notes for EE4285 Computational Intelligence
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 
@@ -29,9 +29,8 @@ image:
 weight: 1
 
 toc: false
-# _build:
-#   render: always
-#   list: never
+tags: ['Collection']
+comments: true
 ---
 
 {{< figure src="featured.jpg" width="250px" title="Fuzzy logic and systems" >}}

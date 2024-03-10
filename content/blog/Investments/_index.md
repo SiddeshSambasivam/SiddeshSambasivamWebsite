@@ -1,11 +1,11 @@
 ---
 # Page title
 
-title: 'Investments Principles'
+title: 📊 Notes on investments principles
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 
-linktitle: 'Investments Principles'
+linktitle: Notes on investments principles
 
 # Page summary for search engines.
 
@@ -28,6 +28,8 @@ image:
 weight: 1
 
 toc: false
+tags: ['Collection']
+comments: true
 ---
 
 {{< figure src="featured.jpg" width="550px" title="Image from https://pixelz.cc" >}}

@@ -1,7 +1,7 @@
 ---
 # Page title
 
-title: Interview prep with Leetcode
+title: 🧞 Interview prep with Leetcode
 linktitle: Interview prep with Leetcode
 
 summary: A collection of leetcode problems and solutions to prepare for technical interviews.
@@ -20,8 +20,7 @@ image:
 weight: 1
 
 toc: false
+tags: ['Collection']
 ---
-
-{{< toc >}}
 
 A collection of leetcode problems and solutions to prepare for technical interviews.

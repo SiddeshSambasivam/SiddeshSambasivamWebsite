@@ -1,7 +1,7 @@
 ---
 # Page title
 
-title: Building software applications
+title: 🏠 Building software applications
 linktitle: Building software applications
 
 summary:
@@ -20,6 +20,9 @@ image:
 weight: 1
 
 toc: false
+tags: ['Collection']
 ---
+
+{{< figure src="featured.jpg" width="500px"  >}}
 
 A collection of resources and guidelines for building software systems, covering topics such as software architecture, design patterns, best practices, and tools.
