@@ -38,9 +38,11 @@ highlight_name: true
     🧑‍💻 My <u><a href="https://www.linkedin.com/in/siddeshss/details/experience/" target="_blank">past work experiences</a></u> and learnings
   </li>
   <li>
+    ✍️ Find blog posts on various topic <u><a href="/blog">here</a></u>
+  </li>
+  <li>
     🧵 Find me on <u><a href="https://github.com/siddeshSambasivam" target="_blank">Github</a></u>, <u><a href="https://www.linkedin.com/in/siddeshss/" target="_blank">LinkedIn</a></u>, <u><a href="https://twitter.com/ssiddesh45" target="_blank">Twitter</a></u> and <u><a href="https://scholar.google.com/citations?user=cK5ea-cAAAAJ" target="_blank">Google scholar</a></u>
   </li>
-
   <li>
     📑 My recent resumé can be found <u><a href="uploads/Siddesh Sambasivam Suseela - Resume.pdf" target="_blank">here</a></u>
   </li>
