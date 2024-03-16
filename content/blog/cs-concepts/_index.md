@@ -19,12 +19,9 @@ image:
 
 weight: 1
 
-toc: false
 tags: ['Collection']
 comments: true
 ---
-
-{{< toc >}}
 
 {{< figure src="featured.png" width="500px" title="" >}}
 
