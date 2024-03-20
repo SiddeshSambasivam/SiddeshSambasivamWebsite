@@ -60,13 +60,6 @@ a {
   }
 }
 
-.article-summary {
-  color: #bdc1c6;
-  font-size: 0.85rem;
-  padding: 0;
-  margin: 0;
-}
-
 .article-title-list {
   font-size: 1.1rem;
   color: #202124;
@@ -80,9 +73,14 @@ a {
 .article-metadata-list {
   display: flex;
   align-items: center;
-  color: #bdc1c6;
   font-size: 0.85rem;
   gap: 10px;
+}
+
+.article-summary {
+  font-size: 0.85rem;
+  padding: 0;
+  margin: 0;
 }
 
 .article-metdata-tags {
@@ -110,6 +108,21 @@ code {
   & .navbar {
     background-color: #202124 !important;
     box-shadow: 0rem 0.125rem 0.25rem 0rem rgba(0, 0, 0, 0.194);
+  }
+
+  .article-metadata-list {
+    display: flex;
+    align-items: center;
+    color: #bdc1c6;
+    font-size: 0.85rem;
+    gap: 10px;
+  }
+
+  .article-summary {
+    color: #bdc1c6;
+    font-size: 0.85rem;
+    padding: 0;
+    margin: 0;
   }
 
   & .dropdown-menu {
