@@ -5,14 +5,17 @@
 
 main:
   - name: Home
-    url: '/'
+    url: "/"
     weight: 10
   - name: Blog
-    url: 'blog/'
+    url: "blog/"
     weight: 20
+  - name: Notes
+    url: "notes/"
+    weight: 30
   - name: Talks
-    url: '#talks'
+    url: "#talks"
     weight: 40
   - name: Publications
-    url: 'publication/'
+    url: "publication/"
     weight: 50

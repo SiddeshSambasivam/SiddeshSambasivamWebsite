@@ -6,21 +6,19 @@ linktitle: Building software applications
 
 summary:
 
-date: 2024-03-09
-
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   placement: 0
   preview_only: false
 
 weight: 1
 
 toc: false
-tags: ['Collection']
+tags: ["Engineering"]
 ---
 
 {{< figure src="featured.jpg" width="500px"  >}}

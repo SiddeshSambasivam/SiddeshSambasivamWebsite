@@ -1,11 +1,11 @@
 ---
 # Page title
 
-title: 🧠 Notes for EE4285 Computational Intelligence
+title: 🧠 EE4285 Computational Intelligence
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 
-linktitle: Notes for EE4285 Computational Intelligence
+linktitle: EE4285 Computational Intelligence
 
 # Page summary for search engines.
 
@@ -21,15 +21,15 @@ type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   placement: 0
   preview_only: false
 
 weight: 1
 
 toc: false
-tags: ['Collection']
+tags: ["Course notes", "Fuzzy Logic"]
 comments: true
 ---
 

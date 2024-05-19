@@ -12,14 +12,22 @@ type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   placement: 0
   preview_only: false
 
 weight: 1
 
-tags: ['Collection']
+tags:
+  [
+    "Algorithms",
+    "Data Structures",
+    "Networking",
+    "Operating Systems",
+    "System Design",
+    "Databases",
+  ]
 comments: true
 ---
 

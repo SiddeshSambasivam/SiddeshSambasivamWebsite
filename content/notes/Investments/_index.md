@@ -1,11 +1,11 @@
 ---
 # Page title
 
-title: 📊 Notes on investments principles
+title: 📊 Investments principles
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 
-linktitle: Notes on investments principles
+linktitle: Investments principles
 
 # Page summary for search engines.
 
@@ -20,15 +20,15 @@ date: 2022-08-12
 type: book
 
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   placement: 0
   preview_only: false
 
 weight: 1
 
 toc: false
-tags: ['Collection']
+tags: ["Course notes", "Investments", "Portfolio management"]
 comments: true
 ---
 
